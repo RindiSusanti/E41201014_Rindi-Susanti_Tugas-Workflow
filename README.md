@@ -1,10 +1,3 @@
-# workflow
-Nama : Yuliana Dewi
-
-NIM : E41200315
-
-Repository ini ditujukan untuk memenuhi tugas dari matakuliah Literasi Digital
-
 # Clone Reepository Workflow
 Pertama saya membuat sebuah repository dengan nama Workflow pada github. Setelah itu, saya melakukan clonning repository menggunakan gitbash dengan perintah: ```git clone https://github.com/yulianadewi18/workflow.git``` Dilanjutkan dengan masuk pada direktori workflow dengan perintah: ```cd workflow```
 
